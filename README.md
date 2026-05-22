@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=120&lines=Hi+%F0%9F%91%8B+I'm+Yash+Wankhade!)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yash+Wankhade!)](https://git.io/typing-svg)
 
-### 🚀 Full Stack Web & Android Developer from Washim, Maharashtra, India 🇮🇳
+### 🚀 Full Stack Web & Android Developer | Washim, Maharashtra, India 🇮🇳
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+App+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+App+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -93,33 +93,11 @@ const yash = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Wankhadeyash12)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Wankhadeyash12)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wankhadeyash12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
+> 💡 **To show your stats cards:** Deploy your own free instance at [vercel.com](https://vercel.com) using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and replace the URL below with your own.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Wankhadeyash12&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wankhadeyash12&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wankhadeyash12&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -143,13 +121,5 @@ const yash = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-wankhade-11b406384/)
 
 📧 **wankhadeyash2006@gmail.com** &nbsp;|&nbsp; 📞 **+91 9322754341** &nbsp;|&nbsp; 📍 **Washim, Maharashtra, India**
-
-</div>
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Wankhadeyash12&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
