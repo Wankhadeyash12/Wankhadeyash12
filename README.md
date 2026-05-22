@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=100&lines=Hi+%F0%9F%91%8B+I'm+Yash+Wankhade!)](https://git.io/typing-svg)
 
-### 🚀 Full Stack Web & Android Developer | Washim, Maharashtra, India 🇮🇳
+### 🚀 Full Stack Web & Android Developer | Nagpur, Maharashtra, India 🇮🇳
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+App+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
