@@ -1,17 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff88,100:00bfff&amp;height=200&amp;section=header&amp;text=Yash%20Wankhade&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Web%20%26%20Android%20Developer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%"/>
+![header](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=00FF88&center=true&vCenter=true&width=800&height=120&lines=Hi+%F0%9F%91%8B+I'm+Yash+Wankhade!)
 
-</div>
+### 🚀 Full Stack Web & Android Developer from Washim, Maharashtra, India 🇮🇳
 
----
-
-<div align="center">
-
-### 👋 Hey there! I'm **Yash Wankhade**
-#### 🚀 Full Stack Web & Android Developer from Washim, Maharashtra, India 🇮🇳
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%BB;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Android+App+Developer;Problem+Solver;Always+Learning+New+Things)](https://git.io/typing-svg)
 
 </div>
 
@@ -23,13 +16,13 @@
 const yash = {
   name: "Yash Wankhade",
   role: "Full Stack Web & Android Developer",
-  location: "Washim, Maharashtra, India 🇮🇳",
+  location: "Washim, Maharashtra, India",
   education: "B.Tech in Computer Engineering @ Suryodaya College, Nagpur",
   currentlyWorking: "Full Stack Web & Android Projects using MERN Stack",
   currentlyLearning: ["MERN Stack", "Android Development", "Firebase"],
   collaborateOn: "Web Development & Android App Projects",
   askMeAbout: ["MERN Stack", "React.js", "Android Studio", "Firebase", "REST APIs"],
-  funFact: "🏆 Presented Women Safety App at MSBTE State-Level Event!",
+  funFact: "Presented Women Safety App at MSBTE State-Level Event!",
   email: "wankhadeyash2006@gmail.com"
 };
 ```
@@ -102,14 +95,14 @@ const yash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
 
 </div>
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wankhadeyash12&theme=tokyonight&hide_border=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wankhadeyash12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -119,7 +112,7 @@ const yash = {
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Wankhadeyash12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Wankhadeyash12&theme=tokyonight&no-frame=true&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -129,7 +122,7 @@ const yash = {
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wankhadeyash12&theme=tokyo-night&hide_border=true)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wankhadeyash12&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -161,7 +154,5 @@ const yash = {
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wankhadeyash12&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00bfff,100:00ff88&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
