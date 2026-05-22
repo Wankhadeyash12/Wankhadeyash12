@@ -1,16 +1,167 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Wankhadeyash12/Wankhadeyash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00bfff&height=200&section=header&text=Yash%20Wankhade&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Android%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+
+### 👋 Hey there! I'm **Yash Wankhade**
+#### 🚀 Full Stack Web & Android Developer from Washim, Maharashtra, India 🇮🇳
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer+%F0%9F%92%BB;Android+App+Developer+%F0%9F%93%B1;Problem+Solver+%F0%9F%A7%A0;Always+Learning+New+Things+%F0%9F%8C%B1)](https://git.io/typing-svg)
+
+</div>
+
+---
+
+## 🙋‍♂️ About Me
+
+```javascript
+const yash = {
+  name: "Yash Wankhade",
+  role: "Full Stack Web & Android Developer",
+  location: "Washim, Maharashtra, India 🇮🇳",
+  education: "B.Tech in Computer Engineering @ Suryodaya College, Nagpur",
+  currentlyWorking: "Full Stack Web & Android Projects using MERN Stack",
+  currentlyLearning: ["MERN Stack", "Android Development", "Firebase"],
+  collaborateOn: "Web Development & Android App Projects",
+  askMeAbout: ["MERN Stack", "React.js", "Android Studio", "Firebase", "REST APIs"],
+  funFact: "🏆 Presented Women Safety App at MSBTE State-Level Event!",
+  email: "wankhadeyash2006@gmail.com"
+};
+```
+
+---
+
+## 🔭 What I'm Up To
+
+| 🔭 Working On | 🌱 Learning | 👯 Collaborating On | ⚡ Fun Fact |
+|---|---|---|---|
+| MERN Stack & Android Projects | Advanced React & Node.js | Web & Android App Projects | Won at MSBTE State-Level 🏆 |
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+
+### ⚙️ Backend
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+
+### 📱 Mobile
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 🛡️ Women Safety App
+> *Presented at the MSBTE State-Level Event*
+
+- 🔴 **SOS Alert System** — Instant emergency alerts with one tap
+- 📍 **Live Location Sharing** — Real-time GPS tracking for safety
+- 📱 **User-Friendly UI** — Intuitive design built in Android Studio
+- 👥 **Team Lead** — Led the team from concept to State-Level presentation
+
+---
+
+## 💼 Work Experience
+
+**🖥️ Front End Developer Intern** — *Visanet Software Pvt. Ltd., Washim*
+- Built responsive web apps using HTML, CSS & JavaScript
+- Collaborated with designers to improve UX/UI
+- Participated in debugging, testing & project discussions
+
+**📱 App Developer Intern** — *Visanet Software Pvt. Ltd., Washim* *(Nov 2025 – Dec 2025)*
+- Worked in the Application Development Team
+- Assisted in app development & software testing
+- Improved application functionality and interface design
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+
+</div>
+
+<div align="center">
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wankhadeyash12&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-profile-trophy.vercel.app/?username=Wankhadeyash12&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Wankhadeyash12&theme=tokyo-night&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Certifications
+
+- ✅ C Programming Certificate
+- ✅ C++ Programming Certificate
+- ✅ Web Development Certificate
+- ✅ MERN Stack Web Development Training
+
+---
+
+## 📫 Let's Connect!
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wankhadeyash2006@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wankhadeyash12)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-wankhade)
+
+📧 **wankhadeyash2006@gmail.com** &nbsp;|&nbsp; 📞 **+91 9322754341** &nbsp;|&nbsp; 📍 **Washim, Maharashtra, India**
+
+</div>
+
+---
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Wankhadeyash12&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:00ff88&height=120&section=footer" width="100%"/>
+
+</div>
