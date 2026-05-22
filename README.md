@@ -93,11 +93,13 @@ const yash = {
 
 ## 📊 GitHub Stats
 
-> 💡 **To show your stats cards:** Deploy your own free instance at [vercel.com](https://vercel.com) using [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and replace the URL below with your own.
-
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Wankhadeyash12&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats-navy-tau-73.vercel.app/api?username=Wankhadeyash12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Wankhadeyash12)
+
+[![Top Languages](https://github-readme-stats-navy-tau-73.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Wankhadeyash12)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wankhadeyash12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
