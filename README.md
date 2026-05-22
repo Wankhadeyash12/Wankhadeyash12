@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff88,100:00bfff&height=200&section=header&text=Yash%20Wankhade&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20%26%20Android%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00ff88,100:00bfff&amp;height=200&amp;section=header&amp;text=Yash%20Wankhade&amp;fontSize=60&amp;fontColor=ffffff&amp;fontAlignY=38&amp;desc=Full%20Stack%20Web%20%26%20Android%20Developer&amp;descAlignY=58&amp;descSize=20&amp;animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -40,7 +40,7 @@ const yash = {
 
 | 🔭 Working On | 🌱 Learning | 👯 Collaborating On | ⚡ Fun Fact |
 |---|---|---|---|
-| MERN Stack & Android Projects | Advanced React & Node.js | Web & Android App Projects | Won at MSBTE State-Level 🏆 |
+| MERN Stack + Android Projects | Advanced React & Node.js | Web & Android App Projects | Won at MSBTE State-Level 🏆 |
 
 ---
 
@@ -65,7 +65,7 @@ const yash = {
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
 
-### 🔧 Tools & Platforms
+### 🔧 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -87,13 +87,13 @@ const yash = {
 ## 💼 Work Experience
 
 **🖥️ Front End Developer Intern** — *Visanet Software Pvt. Ltd., Washim*
-- Built responsive web apps using HTML, CSS & JavaScript
+- Built responsive web apps using HTML, CSS and JavaScript
 - Collaborated with designers to improve UX/UI
-- Participated in debugging, testing & project discussions
+- Participated in debugging, testing and project discussions
 
 **📱 App Developer Intern** — *Visanet Software Pvt. Ltd., Washim* *(Nov 2025 – Dec 2025)*
 - Worked in the Application Development Team
-- Assisted in app development & software testing
+- Assisted in app development and software testing
 - Improved application functionality and interface design
 
 ---
@@ -102,8 +102,8 @@ const yash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" height="180"/>
 
 </div>
 
@@ -150,7 +150,7 @@ const yash = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wankhadeyash2006@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Wankhadeyash12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-wankhade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-wankhade-11b406384/)
 
 📧 **wankhadeyash2006@gmail.com** &nbsp;|&nbsp; 📞 **+91 9322754341** &nbsp;|&nbsp; 📍 **Washim, Maharashtra, India**
 
@@ -162,6 +162,6 @@ const yash = {
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Wankhadeyash12&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00bfff,100:00ff88&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00bfff,100:00ff88&amp;height=120&amp;section=footer" width="100%"/>
 
 </div>
