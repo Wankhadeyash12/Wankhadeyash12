@@ -95,14 +95,11 @@ const yash = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&layout=compact" height="180"/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Wankhadeyash12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Wankhadeyash12)
 
-</div>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Wankhadeyash12)
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Wankhadeyash12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Wankhadeyash12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
