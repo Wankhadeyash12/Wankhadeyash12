@@ -95,10 +95,6 @@ const yash = {
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats-navy-tau-73.vercel.app/api?username=Wankhadeyash12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/Wankhadeyash12)
-
-[![Top Languages](https://github-readme-stats-navy-tau-73.vercel.app/api/top-langs/?username=Wankhadeyash12&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/Wankhadeyash12)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=Wankhadeyash12&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
